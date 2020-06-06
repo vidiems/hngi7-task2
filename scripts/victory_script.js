@@ -1,7 +1,5 @@
-//function that returns my full details as a string 
 const myDetails = () => {
-    //variable to hold my data 
-    
+        
      const name = 'Victory Emueje',
            id ='HNG-06461',
            email = 'victory_emueje@yahoo.com',
